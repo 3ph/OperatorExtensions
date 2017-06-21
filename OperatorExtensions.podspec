@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'OperatorExtensions'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of OperatorExtensions.'
+  s.summary          = 'Provides additional operators currently not supported in Swift.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,9 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  Provides additional operators currently not supported in Swift.
+  - Logical boolean operators (AND, OR, NOT, IMPL, XOR, XNOR, NAND, NOR)
+  - Logical boolean assignment operators (&&=, ||=, ^^=, ...).
                        DESC
 
   s.homepage         = 'https://github.com/3ph/OperatorExtensions'
@@ -31,7 +33,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'OperatorExtensions/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'OperatorExtensions' => ['OperatorExtensions/Assets/*.png']
   # }

@@ -1,0 +1,6 @@
+framework module OperatorExtensions {
+  umbrella header "OperatorExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}

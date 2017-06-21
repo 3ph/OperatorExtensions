@@ -1,0 +1,6 @@
+framework module Pods_OperatorExtensions_Tests {
+  umbrella header "Pods-OperatorExtensions_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
