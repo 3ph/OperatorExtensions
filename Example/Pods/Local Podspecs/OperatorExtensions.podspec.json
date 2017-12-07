@@ -1,8 +1,8 @@
 {
   "name": "OperatorExtensions",
-  "version": "0.1.0",
-  "summary": "A short description of OperatorExtensions.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.1.1",
+  "summary": "Provides additional operators currently not supported in Swift.",
+  "description": "Provides additional operators currently not supported in Swift.\n- Logical boolean operators (AND, OR, NOT, IMPL, XOR, XNOR, NAND, NOR)\n- Logical boolean assignment operators (&&=, ||=, ^^=, ...).",
   "homepage": "https://github.com/3ph/OperatorExtensions",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/3ph/OperatorExtensions.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
