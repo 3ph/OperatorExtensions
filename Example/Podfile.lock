@@ -14,9 +14,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
-  OperatorExtensions: 4cabd779379dcc3683fe47635fa24ccf55eef322
+  OperatorExtensions: f882cdccddd73efb44aee29d5d116dc86b2ef1fe
   Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
 
 PODFILE CHECKSUM: a5ee09bdd197a0ee3f719677b928bd56e6159613
 
-COCOAPODS: 1.4.0.beta.2
+COCOAPODS: 1.4.0
